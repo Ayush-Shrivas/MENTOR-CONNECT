@@ -381,7 +381,7 @@ CENTRIQA operates on a multi-faceted revenue model:
 <summary><h2>👥 Team</h2></summary>
 
 <div align="center">
-<h3>Unskilled Warriors</h3>
+<h3>Sangarsh 2.0</h3>
 
 <table>
   <tr>
@@ -411,5 +411,5 @@ CENTRIQA operates on a multi-faceted revenue model:
 ---
 
 <div align="center">
-<p>© 2026 Team Unskilled Warriors - CENTRIQA | All Rights Reserved</p>
+<p>© 2026 Team Sangarsh 2.0 - CENTRIQA | All Rights Reserved</p>
 </div>
